@@ -10,13 +10,14 @@
   left: calc(50% - 40px);
 }
 
-/* .task3 .item {
+.task3 .item {
   position: fixed;
   top: 0;
   left: 0;
-} */
+}
 
 .container4 {
+  overflow: scroll;
 }
 
 .task4 {
@@ -98,7 +99,7 @@
   clear: left;
 }
 .task10 p {
-  clear: both;s
+  clear: both;
 }
 
 .task11 .img-item {
